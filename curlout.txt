@@ -1,0 +1,6 @@
+Curl Read Test Successful
+
+If you see this text in your terminal window as output,
+libcurl has successfully read the online file!
+
+Congratulations!
